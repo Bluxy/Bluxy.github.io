@@ -1064,7 +1064,7 @@ content:"Jinso";right:50%;text-align:right;transform:translateX(50%)
 }
 .theme-dark .container_ca50b9:after
 {
-content:"v6.3.0";left:50%;text-align:left;opacity:0;transform:translateX(50%) rotateX(90deg)
+content:"v1";left:50%;text-align:left;opacity:0;transform:translateX(50%) rotateX(90deg)
 }
 .theme-dark .container_ca50b9:hover:before
 {
@@ -8834,3 +8834,4 @@ text-indent:-3ch;margin-left:0;padding:0;border:none
 {
 content:counter(linenumbers);counter-increment:linenumbers;color:rgba(255,255,255,.3);display:inline-block;width:2ch;margin-right:.5ch;padding-right:.5ch;text-align:right;overflow:hidden;vertical-align:top;user-select:none
 }
+
